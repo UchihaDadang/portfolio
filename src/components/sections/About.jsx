@@ -35,7 +35,7 @@ export default function AboutSection() {
 
   return (
     <section id="about" className="w-full py-16 md:py-24">
-      <div className="max-w-7xl mx-auto p-6 2xl:py-15 md:px-10 md:py-10 bg-white/50 backdrop-blur-md backdrop-saturate-150 rounded-2xl">
+      <div className="max-w-7xl mx-auto p-6 2xl:py-15 md:px-10 md:py-8 bg-white/50 backdrop-blur-md backdrop-saturate-150 rounded-2xl">
         <h2 className="text-3xl md:text-3xl 2xl:text-4xl font-semibold text-white font-poppins text-center md:text-left">
           About
         </h2>
